@@ -1,18 +1,20 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hi+There!+%F0%9F%91%8B;I'm+Priyanshu+Bhardwaj!;A+Passionate+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3&color=6366F1" alt="Typing SVG" /></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=2000&pause=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Priyanshu+Bhardwaj!;Full-Stack+Dev+%7C+AI+Explorer+%7C+DSA+Lover;Code.+Build.+Break.+Repeat.%F0%9F%9A%80;Always+learning+something+new+%F0%9F%93%9A;Let’s+build+something+awesome+together+%F0%9F%92%A1;&color=FFFFFF" alt="Typing SVG" />
+</h1>
 
 <div align="center">
     <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" width="700" alt="Coding GIF">
 </div>
 
-<h3 align="center">Building Web Solutions with React, Next.js & More</h3>
+<h2 align="center">Building Web Solutions with React, Next.js & More</h2>
 
 <div align="center">
-    <h3>♨︎ _ ♨︎</h3>
-    <p>🚀 <strong>Full-Stack Developer in the making</strong></p>
+<!--     <h3>♨︎ _ ♨︎</h3> -->
+<!--     <p>🚀 <strong>Full-Stack Developer in the making</strong></p> -->
     <p>📫 Reach me at: <a href="mailto:priyanshubhardwaj658@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
     </a></p>
-    <p>💼 Open to projects, hackathons, and collaborations!</p>
+<!--     <p>💼 Open to projects, hackathons, and collaborations!</p> -->
     <p>⚡ Fun fact: <strong>Nerd for Computer Science and Comics</strong></p>
 </div>
 
