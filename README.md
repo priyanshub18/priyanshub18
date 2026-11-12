@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" alt="coding gif"/>
+<!-- <img align="right" width="340" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" alt="coding gif"/> -->
 
 ```ts
 const priyanshu = {
