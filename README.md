@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6366F1&height=200&section=header&text=Priyanshu%20Bhardwaj&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%204x%20Intern%20%28Amex%29&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6366F1&height=200&section=header&text=Priyanshu%20Bhardwaj&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%204x%20Intern%20%28YC%20S26%20%26%20Amex%29&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/priyanshub18">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=818CF8&center=true&vCenter=true&width=720&lines=Ex-SWE+Intern+%40+Decawork+AI+(YC+S26)+%26+American+Express;Building+LLM+agents%2C+RAG+%26+async+AI+pipelines;CSE+%40+NIT+Jalandhar+%E2%80%A2+CGPA+9.52+%E2%80%A2+Rank+2%2F1200;GATE+2026+AIR+1129+(top+0.6%25)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=818CF8&center=true&vCenter=true&width=760&lines=Ex-Founding+Eng+Intern+%40+Decawork+AI+(YC+S26)+%26+Amex;Building+LLM+Agent+Gateways%2C+Sandboxes+%26+RAG+Pipelines;CSE+%40+NIT+Jalandhar+%E2%80%A2+CGPA+9.52+%E2%80%A2+Rank+2%2F1200;GATE+2026+AIR+1129+(Top+0.6%25)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,38 +16,38 @@
   <img src="https://komarev.com/ghpvc/?username=priyanshub18&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile views"/>
 </p>
 
+> **Backend & AI Systems Engineer · NIT Jalandhar CSE (Rank 2/1200) · 4× Production SWE Intern (Decawork AI YC S26, American Express, Interact AI, Examate).**
+>
+> Most of my 2025–2026 production work (LLM-agent gateways, Docker code-execution sandboxes, pgvector RAG pipelines, and enterprise fintech systems) lives in private organization repositories; pinned below are my public architectures, autonomous agents, and developer tools.
+
 ---
 
 ## 👨‍💻 About Me
-
-<!-- <img align="right" width="340" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" alt="coding gif"/> -->
 
 ```ts
 const priyanshu = {
   role:        "Backend Engineer — AI Systems",
   education:   "B.Tech CSE @ NIT Jalandhar (2023–2027)",
-  cgpa:        "9.52 / 10  •  Rank 2 of 1,200",
+  cgpa:        "9.52 / 10  •  Rank 2 of 1,200 (Top 0.2%)",
+  gate2026:    "AIR 1129 among 200,000+ CSE candidates (Top 0.6%)",
   experience:  ["Decawork AI (YC S26)", "American Express", "Interact AI", "Examate"],
-  focus:       ["LLM Agents", "RAG", "Distributed Backends", "Real-time Systems"],
+  focus:       ["LLM Agents & Gateways", "Code Execution Sandboxes", "RAG", "Distributed Backends"],
   currently:   "Open to SDE / Backend / AI Engineering roles",
-  funFact:     "Nerd for Computer Science and Comics 🦸",
 };
 ```
 
-<br clear="right"/>
-
 ---
 
-## 💼 Experience
+## 💼 Production Experience
 
 <table>
   <tr>
-    <td width="70%">
-      <b>🚀 Decawork AI</b> <sub>(Y Combinator S26)</sub> — <i>Software Engineering Intern</i><br/>
+    <td>
+      <b>🚀 Decawork AI</b> <sub>(Y Combinator S26)</sub> — <i>Founding Engineer Intern</i><br/>
       <sub>Sep 2026 – Oct 2026 · Remote</sub>
       <ul>
-        <li>Built an <b>LLM-agent gateway</b> for <b>10</b> AI agents with per-agent <b>token-bucket rate limiting</b>, request logging & metrics, and a <b>kill-switch</b> that revokes access in <b>&lt;10 s</b>.</li>
-        <li>Integrated <b>WorkOS (Okta, Entra ID)</b> + <b>ServiceNow</b> to sync <b>800+</b> employees; wrote an intent-based policy engine auto-approving <b>70%</b> of access tickets.</li>
+        <li>Contributed to an <b>LLM-agent gateway</b> between <b>10</b> AI agents and internal tools: per-agent <b>token-bucket rate limiting</b>, request-level telemetry, and a <b>kill-switch</b> revoking agent access in <b>&lt;10 s</b>.</li>
+        <li>Integrated <b>WorkOS (Okta, Entra ID)</b> + <b>ServiceNow</b> to sync <b>800+</b> employees; built an intent-based policy evaluator auto-approving <b>70%</b> of low-risk access tickets.</li>
       </ul>
     </td>
   </tr>
@@ -56,9 +56,9 @@ const priyanshu = {
       <b>💳 American Express</b> — <i>Product Development Intern</i><br/>
       <sub>Jun 2026 – Aug 2026 · Gurugram</sub>
       <ul>
-        <li>Authored <b>60+</b> credit-decisioning rules (Japan, Canada, Mexico) → <b>$2.8M</b> pre-tax income & <b>4,000+</b> new active accounts.</li>
-        <li>Built a <b>Playwright</b> framework covering <b>100+</b> banking rules, cutting validation time by <b>40%</b> across 6 UAT cycles.</li>
-        <li>Standardized <b>Open Banking API</b> contracts across 5 teams with automated payload validation.</li>
+        <li>Standardized third-party <b>Open Banking API</b> payload contracts and transformation schemas across <b>5</b> vendor, strategy, and engineering teams with automated payload validation scripts.</li>
+        <li>Built a <b>Playwright</b> validation framework covering <b>100+</b> banking rules, cutting validation time by <b>40%</b> across 6 UAT cycles.</li>
+        <li>Authored <b>60+</b> credit-decisioning rules across Japan, Canada, and Mexico, contributing to <b>$2.8M</b> pre-tax income &amp; <b>4,000+</b> net new active accounts.</li>
       </ul>
     </td>
   </tr>
@@ -67,9 +67,9 @@ const priyanshu = {
       <b>🤖 Interact AI</b> <sub>(Humanisys AI)</sub> — <i>Software Engineer Intern</i><br/>
       <sub>Sep 2025 – Apr 2026 · Hybrid</sub>
       <ul>
-        <li>Built async workers for multi-stage LLM jobs (slides → voice cloning → avatar rendering) with <b>retry queues</b>.</li>
-        <li>Shipped a <b>RAG</b> search over 8+ repos with <b>pgvector</b>, cutting onboarding time by <b>60%</b> (10 → 4 days).</li>
-        <li>Live job progress via <b>SSE</b>; owned the InteractPitch frontend incl. an 8-screen admin dashboard.</li>
+        <li>Built async backend workers for multi-stage LLM jobs (slide gen → voice cloning → avatar rendering) with stage-level <b>retry queues</b> and pooled DB connections.</li>
+        <li>Shipped a <b>RAG</b> search engine over <b>8+</b> internal repositories with <b>pgvector</b> embeddings, cutting developer onboarding time by <b>60%</b> (10 → 4 days).</li>
+        <li>Streamed long-running AI job progress via <b>Server-Sent Events (SSE)</b> with polling fallback; owned the 8-screen InteractPitch admin dashboard (Remix, TypeScript, TanStack Query).</li>
       </ul>
     </td>
   </tr>
@@ -78,8 +78,8 @@ const priyanshu = {
       <b>📝 Examate</b> — <i>Software Engineer Intern</i><br/>
       <sub>Apr 2025 – Aug 2025 · Remote</sub>
       <ul>
-        <li>Built a <b>Docker</b> sandbox for untrusted code with cgroup limits; caching cut grading time by <b>25%</b>.</li>
-        <li>REST APIs + <b>PostgreSQL</b> for 800+ users with gradebook responses <b>&lt;100 ms</b>.</li>
+        <li>Built a <b>Docker</b> code-execution sandbox running untrusted student code under <b>cgroup</b> memory limits and process timeouts; test-case evaluation caching cut grading time by <b>25%</b>.</li>
+        <li>Developed REST APIs &amp; <b>PostgreSQL</b> schemas serving <b>800+</b> institutional users; tuned queries and added cursor-based pagination to keep gradebook latency <b>&lt;100 ms</b>.</li>
       </ul>
     </td>
   </tr>
@@ -87,14 +87,15 @@ const priyanshu = {
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Highlighted Public Architectures
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🎙️ Interviewly</h3>
-      <p>AI interview platform with a job board, <b>WebRTC</b> video rooms, and Gemini-powered prep tools. 10+ live sessions, 100+ AI-generated flashcards, real-time sync on Convex.</p>
+      <p>Full-stack AI interview &amp; recruitment platform with live <b>WebRTC (Stream SDK)</b> video rooms, Monaco code editor, Gemini-powered flashcards/quizzes/study plans, and real-time sync on <b>Convex</b> (11 indexed tables).</p>
       <p>
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
         <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
@@ -104,14 +105,27 @@ const priyanshu = {
     </td>
     <td width="50%" valign="top">
       <h3>🎧 VibeRoom</h3>
-      <p>Real-time music rooms where friends listen together. Playback synced over <b>WebSockets</b> with <b>sub-80 ms</b> latency across 20+ concurrent rooms.</p>
+      <p>Real-time music streaming &amp; social listening platform with live listening presence, friend activity broadcasts, and instant messaging over <b>Socket.io</b>, backed by Express, MongoDB, Clerk, and Cloudinary.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebSockets-4A4A55?style=flat-square"/>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
-      <a href="https://viberoom-9k5u.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=render&logoColor=white"/></a>
-      <a href="https://github.com/priyanshub18/viberoom"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/priyanshub18/VibeRoom"><img src="https://img.shields.io/badge/Code_%26_Architecture-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 VeriFact</h3>
+      <p>Multimodal fake-information verifier combining image forensics (EXIF, C2PA, ELA, 2D FFT) with retrieval-first claim verification (FastAPI, Arq/Redis workers, SSE, PostgreSQL, BM25/cross-encoder reranking).</p>
+      <a href="https://github.com/priyanshub18/verifact"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>♿ Accessify &amp; ⚡ Loan Eligibility Engine</h3>
+      <p><b>Accessify:</b> Autonomous coding agent that detects web a11y bugs, patches source files, re-scans to verify, and prepares PRs.<br/><b>Loan Engine:</b> AWS Serverless (S3, SQS, Lambda, RDS, SES) + n8n cutting 140k LLM pairs to 5 batched calls.</p>
+      <a href="https://github.com/priyanshub18/accessify"><img src="https://img.shields.io/badge/Accessify-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/priyanshub18/loan-eligibility-engine"><img src="https://img.shields.io/badge/Loan_Engine-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -125,12 +139,12 @@ const priyanshu = {
   <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,c,postgres&theme=dark" />
 </p>
 
-<p align="center"><b>Backend & AI</b></p>
+<p align="center"><b>Backend &amp; AI</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,dynamodb,aws,docker,linux&theme=dark" />
 </p>
 
-<p align="center"><b>Frontend & Tools</b></p>
+<p align="center"><b>Frontend &amp; Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,remix,tailwind,git,github,vscode&theme=dark" />
 </p>
@@ -154,8 +168,8 @@ const priyanshu = {
 | | |
 |:--:|:--|
 | 🎯 | **GATE 2026 (CSE)** — All India Rank **1129** among 200,000+ candidates (**top 0.6%**) |
-| 🥈 | **Academic Rank 2** of 1,200 in batch — 9.96 SGPA in 3rd & 4th semesters (**top 0.2%**) |
-| 🚀 | **Top 10** of 250+ teams — HackMol 6.0 National Hackathon |
+| 🥈 | **Academic Rank 2** of 1,200 in batch — 9.96 SGPA in 3rd &amp; 4th semesters (**top 0.2%**) |
+| 🚀 | **Top 10** of 250+ teams — HackMol 6.0 National Hackathon, NIT Jalandhar |
 | 🥇 | **1st Place** — CodeStorm, GDSC Coding Competition, NIT Jalandhar |
 
 ---
