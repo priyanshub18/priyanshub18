@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6366F1&height=200&section=header&text=Priyanshu%20Bhardwaj&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%204x%20Intern%20%28YC%20S26%20%26%20Amex%29&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/priyanshub18">
